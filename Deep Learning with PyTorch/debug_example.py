@@ -19,4 +19,5 @@ train_set = torchvision.datasets.FashionMNIST(
 
 image, label = train_set[0]
 
+print("HERE")
 print(image.shape)
