@@ -1,0 +1,102 @@
+[
+    {
+        "run": 1,
+        "epoch": 1,
+        "loss": 1.0273127506176631,
+        "accuracy": 0.6112166666666666,
+        "epoch duration": 13.342625141143799,
+        "run duration": 13.43789005279541,
+        "lr": 0.01,
+        "batch_size": 1000
+    },
+    {
+        "run": 1,
+        "epoch": 2,
+        "loss": 0.5399421398838361,
+        "accuracy": 0.7900666666666667,
+        "epoch duration": 13.543674230575562,
+        "run duration": 27.05666422843933,
+        "lr": 0.01,
+        "batch_size": 1000
+    },
+    {
+        "run": 1,
+        "epoch": 3,
+        "loss": 0.45644444872935613,
+        "accuracy": 0.8302666666666667,
+        "epoch duration": 13.24552607536316,
+        "run duration": 40.36349296569824,
+        "lr": 0.01,
+        "batch_size": 1000
+    },
+    {
+        "run": 1,
+        "epoch": 4,
+        "loss": 0.40908505469560624,
+        "accuracy": 0.8476166666666667,
+        "epoch duration": 13.396988868713379,
+        "run duration": 53.833510875701904,
+        "lr": 0.01,
+        "batch_size": 1000
+    },
+    {
+        "run": 1,
+        "epoch": 5,
+        "loss": 0.3724651888012886,
+        "accuracy": 0.86105,
+        "epoch duration": 13.541309118270874,
+        "run duration": 67.43609809875488,
+        "lr": 0.01,
+        "batch_size": 1000
+    },
+    {
+        "run": 2,
+        "epoch": 1,
+        "loss": 1.2811313490072886,
+        "accuracy": 0.5111,
+        "epoch duration": 13.276901960372925,
+        "run duration": 13.451503992080688,
+        "lr": 0.01,
+        "batch_size": 2000
+    },
+    {
+        "run": 2,
+        "epoch": 2,
+        "loss": 0.7355171938737234,
+        "accuracy": 0.71645,
+        "epoch duration": 13.44135308265686,
+        "run duration": 26.956783056259155,
+        "lr": 0.01,
+        "batch_size": 2000
+    },
+    {
+        "run": 2,
+        "epoch": 3,
+        "loss": 0.6172020713488261,
+        "accuracy": 0.7618666666666667,
+        "epoch duration": 13.187692880630493,
+        "run duration": 40.207881927490234,
+        "lr": 0.01,
+        "batch_size": 2000
+    },
+    {
+        "run": 2,
+        "epoch": 4,
+        "loss": 0.5619603137175242,
+        "accuracy": 0.7844,
+        "epoch duration": 14.387562990188599,
+        "run duration": 54.66010594367981,
+        "lr": 0.01,
+        "batch_size": 2000
+    },
+    {
+        "run": 2,
+        "epoch": 5,
+        "loss": 0.5149316151936849,
+        "accuracy": 0.8059833333333334,
+        "epoch duration": 13.202239036560059,
+        "run duration": 67.92595410346985,
+        "lr": 0.01,
+        "batch_size": 2000
+    }
+]
