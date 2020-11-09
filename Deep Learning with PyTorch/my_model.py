@@ -54,3 +54,4 @@ class Network(nn.Module): # extending nn.Module base class
         # t = F.softmax(t, dim=1) -> done in the loss part implicitly
         
         return t
+
