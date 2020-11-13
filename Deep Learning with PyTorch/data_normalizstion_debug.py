@@ -23,3 +23,12 @@ loader = DataLoader(train_set, batch_size=1)
 image, label = next(iter(loader))
 
 print(image.shape)
+
+
+
+"""
+- If Shuffle value is True, then the DataLoader will use a random sampler
+    - Otherwise a sequencer will be used
+- The next() method is implemented in the PyTorch module, it's not the python function
+
+"""
