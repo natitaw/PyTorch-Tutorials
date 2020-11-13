@@ -35,5 +35,4 @@ print(image.shape)
     - The MNIST Class loads all data on memory (which means you need enough memory)
 - The alternative is to read from disk using file path data
     - This is implemented in the __getitem__(self, index) method
-
 """
