@@ -27,8 +27,13 @@ print(image.shape)
 
 
 """
+- The DataLoader class implements a lot of python functions, such as next, getitem, etc, os that we can use it to manipulate data
 - If Shuffle value is True, then the DataLoader will use a random sampler
     - Otherwise a sequencer will be used
 - The next() method is implemented in the PyTorch module, it's not the python function
+- There is a get_item() method in the data class that defines how the data is indexed
+    - The MNIST Class loads all data on memory (which means you need enough memory)
+- The alternative is to read from disk using file path data
+    - This is implemented in the __getitem__(self, index) method
 
 """
